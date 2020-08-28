@@ -131,7 +131,7 @@ style="margin: 5px 5px 0px 0px;">
 <p>He taught himself Python after several university computer science courses in Java. He holds a Bachelor of Science degree in Aerospace Engineering from the University of Virginia and a Master of Business Administration from Emory University’s Goizueta School of Business.</p>
 
 
-<p>Visit his [LinkedIn page here](https://www.linkedin.com/in/alexander-kenan)</p>
+<p>Visit his <a href="https://www.linkedin.com/in/alexander-kenan" target="_blank">LinkedIn page here</a></p>
 
 [AmazonK]:    https://www.amazon.com
 [AmazonS]:   https://www.amazon.com
