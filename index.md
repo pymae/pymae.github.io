@@ -1,5 +1,5 @@
 
-### Python for Mechanical and Aerospace Engineering
+# Python for Mechanical and Aerospace Engineering
 by Alex Kenan
 
 
@@ -110,7 +110,7 @@ plt.title('Orbital Simulation')
 plt.show()
 ````
 
-<img src="https://github.com/pymae/pymae.github.io/blob/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
 
 To read the rest of the book, find it on [Amazon Kindle][AmazonK], [Apple Books][Apple Books], or [Amazon softcover][AmazonS].
 
