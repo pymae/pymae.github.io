@@ -112,11 +112,11 @@ plt.show()
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
 
-To read the rest of the book, find it on [Amazon Kindle][AmazonK], [Apple Books][Apple Books], or [Amazon softcover][AmazonS].
+**To read the rest of the book, purchase the book at one of the above links!**
 
-<img src="https://github.com/pymae/pymae.github.io/blob/master/files/space.gif" alt="animated space gif">
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/blob/master/files/space.gif" alt="animated space gif">
 
-<img src="https://github.com/pymae/pymae.github.io/blob/master/files/3d_space.png" alt="3D space plot" width="564px" height="495px">
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/blob/master/files/3d_space.png" alt="3D space plot" width="564px" height="495px">
 
 [AmazonK]:    https://www.amazon.com
 [AmazonS]:   https://www.amazon.com
