@@ -1,10 +1,10 @@
 
-# Python for Mechanical and Aerospace Engineering
+### Python for Mechanical and Aerospace Engineering
 by Alex Kenan
 
 
 ## What is this book about?
-The traditional computer science courses for engineering focus on the fundamentals of programming without demonstrating the wide array of practical applications for fields outside of computer science. Thus the mindset of “Java/Python is for computer science people or programmers, and MATLAB is for engineering” develops. MATLAB tends to dominate the engineering space because it is viewed as a batteries-included software kit that is focused on functional programming. Everything in MATLAB is some sort of array, and it lends itself to engineering integration with its toolkits like Simulink and other add-ins. The downside of MATLAB is that it is proprietary software, the license is expensive to purchase, and it is more limited than Python for doing tasks besides calculating or data capturing. 
+The traditional computer science courses for engineering focus on the fundamentals of programming without demonstrating the wide array of practical applications for fields outside of computer science. Thus, the mindset of “Java/Python is for computer science people or programmers, and MATLAB is for engineering” develops. MATLAB tends to dominate the engineering space because it is viewed as a batteries-included software kit that is focused on functional programming. Everything in MATLAB is some sort of array, and it lends itself to engineering integration with its toolkits like Simulink and other add-ins. The downside of MATLAB is that it is proprietary software, the license is expensive to purchase, and it is more limited than Python for doing tasks besides calculating or data capturing. 
 
 So, this book is about the Python programming language. Specifically, it is about Python in the context of mechanical and aerospace engineering. This book assumes a college junior level of aerospace engineering understanding. I use examples like
 
@@ -30,7 +30,13 @@ In total, there are 10 chapters:
 9.	Making pdf reports of Python code with Pweave
 
 
-This book is available on [Amazon Kindle][AmazonK], [Apple Books][Apple Books], or [Amazon softcover][AmazonS].
+## Where to buy this book
+This book is available on 
+* [Amazon Kindle][AmazonK] or [Amazon softcover][AmazonS]
+* [Apple Books][Apple Books]
+* [Barnes and Noble ebook][Barnes and Noble ebook] or [B&N softcover][Barnes and Noble softcover]
+* [Kobo][Kobo]
+* [Google Play][Google Play]
 
 
 Take a test drive of this book by previewing Chapter 5, Modeling a 2-body orbit in two and three dimensions.
@@ -104,14 +110,18 @@ plt.title('Orbital Simulation')
 plt.show()
 ````
 
-<img src="https://github.com/alexkenan/pymae/blob/master/readme_files/2d_space.png" alt="2D space plot" width="514px" height="400px">
+<img src="https://github.com/pymae/pymae.github.io/blob/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
 
 To read the rest of the book, find it on [Amazon Kindle][AmazonK], [Apple Books][Apple Books], or [Amazon softcover][AmazonS].
 
-<img src="https://github.com/alexkenan/pymae/blob/master/readme_files/space.gif" alt="animated space gif">
+<img src="https://github.com/pymae/pymae.github.io/blob/master/files/space.gif" alt="animated space gif">
 
-<img src="https://github.com/alexkenan/pymae/blob/master/readme_files/3d_space.png" alt="3D space plot" width="564px" height="495px">
+<img src="https://github.com/pymae/pymae.github.io/blob/master/files/3d_space.png" alt="3D space plot" width="564px" height="495px">
 
 [AmazonK]:    https://www.amazon.com
 [AmazonS]:   https://www.amazon.com
 [Apple Books]:     https://www.apple.com
+[Barnes and Noble ebook]: https://www.barnesnnoble.com
+[Barnes and Noble softcover]: https://www.barnesnnoble.com
+[Kobo]: https://www.kobo.com
+[Google Play]: https://www.google.com
