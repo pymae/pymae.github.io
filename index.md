@@ -29,7 +29,7 @@ In total, there are 10 chapters:
 8.	Creating a GUI to convert units with tkinter and pint
 9.	Making pdf reports of Python code with Pweave
 
-You can find the completed programs and a very helpful 595 page NSA Python tutorial [at this GitHub page](https://github.com/alexkenan/pymae).
+You can find the completed programs and a very helpful 595 page NSA Python tutorial [at the book's GitHub page here](https://github.com/alexkenan/pymae).
 
 
 ## Where to buy this book
