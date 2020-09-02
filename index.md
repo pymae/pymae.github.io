@@ -32,7 +32,7 @@ You can find the completed programs and a very helpful 595 page NSA Python tutor
 
 ## Where to buy this book
 
-Click [here](https://pymae.github.io/buy/) for purchasing information.
+Click [here](https://pymae.github.io/buy.html) for purchasing information.
 
 
 ## Sample Chapter
