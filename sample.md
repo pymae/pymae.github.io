@@ -1,6 +1,6 @@
-# Chapter 5: Modeling a 2-body orbit in 2D and 3D
+## Chapter 5: Modeling a 2-body orbit in 2D and 3D
 
-#### Introduction
+### Introduction
 
 Python is a perfect candidate for modeling simple 2 body orbits like a satellite orbiting the Earth. We want to be able to model basic circular and elliptical orbits in two dimensions and three dimensions. We’ll take advantage of matplotlib’s `FuncAnimation()` function to animate the 2D orbit to show how the orbital velocity increases at the closest point to Earth and decreases at the farthest point from Earth. We can also use matplotlib’s 3D plotting functionality to plot circular and elliptical orbits in 3D, which will help to illustrate how the parameters that define an orbit can affect the orbit.
 
@@ -24,7 +24,7 @@ The particulars of the hows and whys of orbital mechanics are beyond the scope o
 
 With orbital mechanics out of the way, let’s get to the Python. We’ll start with displaying a 2D static plot of the orbit of a satellite around Earth, animating the 2D plot of the orbit, then finish with displaying a 3D plot of the orbit around Earth.
 
-#### Imports
+### Imports
 ````
 import numpy as np
 from PyAstronomy import pyasl
@@ -35,7 +35,7 @@ import matplotlib.animation as animation
 PyAstronomy is not part of the default Anaconda distribution, so you will have to download it with `pip install PyAstronomy`.
 
 
-#### Body
+### Body
 
 The beauty of using a third party library (that has been properly vetted) is that the library can handle the hard work, and we only need one line to create the elliptical orbit object `KeplerEllipse`. We’ll start with a basic ellipse: semi-major axis of 1.0 units, a time period of 1.0 units, an inclination of 30 degrees, and everything else 0. We’ll also use numpy to create time intervals to be used in determining position later.
 
@@ -68,7 +68,7 @@ plt.show()
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
 
-**To read the rest of the book, purchase the book at one of the above links!** You'll learn how to make the following two visualizations:
+**To read the rest of the book, see purchasing options [here](https://pymae.github.io/buy.html)** You'll learn how to make the following two visualizations:
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/space.gif" alt="animated space gif">
 
