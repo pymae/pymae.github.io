@@ -1,5 +1,5 @@
 # Python for Mechanical and Aerospace Engineering
-by Alex Kenan
+by [Alex Kenan](https://pymae.github.io/about.html)
 
 
 ## What is this book about?
