@@ -1,11 +1,3 @@
----
-layout: page
-title: "Python for Mechanical and Aerospace Engineering"
-permalink: //
----
-
-
-
 # Python for Mechanical and Aerospace Engineering
 by Alex Kenan
 
@@ -44,4 +36,4 @@ Click [here](https://pymae.github.io/buy/) for purchasing information.
 
 
 ## Sample Chapter
-Take a test drive of this book by previewing the first third of Chapter 5, Modeling a 2-body orbit in two and three dimensions [here](https://pymae.github.io/sample.html).
+Take a test drive of this book by previewing some of Chapter 5, Modeling a 2-body orbit in two and three dimensions [here](https://pymae.github.io/sample.html).
