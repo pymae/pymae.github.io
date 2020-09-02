@@ -10,4 +10,4 @@ style="margin: 5px 5px 0px 0px;">
 
 <p>Visit his <a href="https://www.linkedin.com/in/alexander-kenan" target="_blank">LinkedIn page here</a></p>
 
-Questions? Comments? Got ideas for new programs? Email me at pythonforengineering(at)gmail.com or use the `enhancement` flair in the Issues section of the [GitHub repository](https://github.com/alexkenan/pymae).
+Questions? Comments? Got ideas for new programs? Email them to pythonforengineering(at)gmail.com or use the `enhancement` flair in the Issues section of the [GitHub repository](https://github.com/alexkenan/pymae).
