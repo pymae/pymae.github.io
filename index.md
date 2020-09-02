@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Python for Mechanical and Aerospace Engineering"
-permalink: /index/
 ---
 
 
