@@ -1,9 +1,4 @@
-layout: page
-title: "About the Author"
-permalink: /about/
-
-
-## About the Author
+# About the Author
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/headshot.jpg" alt="Author headshot image" width="150px" height="150px" align="left"
 style="margin: 5px 5px 0px 0px;">
