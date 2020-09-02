@@ -70,7 +70,9 @@ plt.show()
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/2d_space.png" alt="2D space plot" width="514px" height="400px">
 
-**To read the rest of the book, see purchasing options [here](https://pymae.github.io/buy.html)** You'll learn how to make the following two visualizations:
+**To read the rest of the book, see purchasing options [here](https://pymae.github.io/buy.html).**
+
+You'll learn how to make the following two visualizations:
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/space.gif" alt="animated space gif">
 
