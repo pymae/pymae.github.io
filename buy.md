@@ -1,10 +1,4 @@
----
-
-layout: page
-title: "Buying the book"
-permalink: /buy/
-
----
+# Purchasing options
 
 This book is available on 
 * [Amazon Kindle][AmazonK] or [Amazon softcover][AmazonS]
