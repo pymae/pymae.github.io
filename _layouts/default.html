@@ -36,13 +36,16 @@
         {% endif %}
       </div><!-- end banner -->
 
-    <div class="wrapper">
+    <div class="wrapper"><!---
       <nav>
         <ul></ul>
       </nav>
       <section>
         {{ content }}
 
+      </section>-->
+      <section>
+      {% include navi.html %}
       </section>
       <footer>
         {% if site.github.is_project_page %}
