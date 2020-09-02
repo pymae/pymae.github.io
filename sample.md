@@ -1,3 +1,5 @@
+This snippet represents approximately 1/3 of Chapter 5: Modeling a 2-body orbit in 2D and 3D. It is provided as a way for you to "test drive" the book.
+
 ## Chapter 5: Modeling a 2-body orbit in 2D and 3D
 
 ### Introduction
