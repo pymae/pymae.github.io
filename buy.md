@@ -1,6 +1,10 @@
+---
+
 layout: page
 title: "Buying the book"
 permalink: /buy/
+
+---
 
 This book is available on 
 * [Amazon Kindle][AmazonK] or [Amazon softcover][AmazonS]
