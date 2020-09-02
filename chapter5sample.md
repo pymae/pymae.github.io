@@ -1,7 +1,3 @@
-layout: page
-title: "Chapter 5 Sample"
-permalink: /chapter5sample/
-
 # Chapter 5: Modeling a 2-body orbit in 2D and 3D
 
 #### Introduction
