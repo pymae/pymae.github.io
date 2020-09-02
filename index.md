@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Python for Mechanical and Aerospace Engineering"
+permalink: /
+---
+
+
 
 # Python for Mechanical and Aerospace Engineering
 by Alex Kenan
