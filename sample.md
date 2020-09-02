@@ -78,4 +78,4 @@ You'll learn how to make the following two visualizations:
 
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/3d_space.png" alt="3D space plot" width="564px" height="495px">
 
-<a href="https://pymae.github.io/buy.html" class="downloads button">Purchasing</a>
+<a href="https://pymae.github.io/buy.html"><strong>See purchasing options here</strong></a>.
