@@ -1,4 +1,4 @@
-# Purchasing options
+## Purchasing options
 
 This book is available on 
 * [Amazon Kindle][AmazonK] or [Amazon softcover][AmazonS]
