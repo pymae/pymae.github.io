@@ -8,6 +8,6 @@ style="margin: 5px 5px 0px 0px;">
 <p>He taught himself Python after several university computer science courses in Java. He holds a Bachelor of Science degree in Aerospace Engineering from the University of Virginia and a Master of Business Administration from Emory University’s Goizueta School of Business.</p>
 
 
-<p>Visit his <a href="https://www.linkedin.com/in/alexander-kenan" target="_blank">LinkedIn page here</a></p>
+<p>Visit his <a href="https://www.linkedin.com/in/alexander-kenan" target="_blank">LinkedIn page here</a>.</p>
 
 Questions? Comments? Got ideas for new programs? Email them to pythonforengineering(at)gmail.com or use the `enhancement` flair in the Issues section of the [GitHub repository](https://github.com/alexkenan/pymae).
