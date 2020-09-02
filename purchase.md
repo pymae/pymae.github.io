@@ -1,11 +1,3 @@
----
-
-layout: page
-title: "Where to purchase"
-permalink: /purchase/
-
----
-
 
 ## Where to buy this book
 This book is available on 
