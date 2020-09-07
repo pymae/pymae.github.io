@@ -19,7 +19,7 @@ In total, there are 10 chapters:
 
 1.	Intro chapter on how to download Python via Anaconda distribution and getting started with Python syntax
 1.  A very small problem and solution to demonstrate a basic Python program
-2.	Graphing thrust required and thrust available for an A321 at three different altitudes with **matplotlib**
+2.	Graphing thrust required and thrust available for an Airbus A321 at three different altitudes with **matplotlib**
 3.	Graphing dynamic pressure as a function of time for a rocket launch with **matplotlib** 
 4.	Getting and plotting airfoil coordinates with **requests** and **matplotlib**
 5.	Modeling a satellite’s orbit around Earth with **PyAstronomy** and **matplotlib**
