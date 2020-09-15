@@ -6,6 +6,7 @@ This book is available on
 * [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble softcover][Barnes and Noble softcover]
 * [Kobo][Kobo]
 * [Google Play][Google Play]
+* [Leanpub][leanpub]
 
 
 
@@ -16,3 +17,4 @@ This book is available on
 [Barnes and Noble softcover]: https://www.barnesnnoble.com
 [Kobo]: https://www.kobo.com
 [Google Play]: https://www.google.com
+[Leanpub]: https://leanpub.com/pymae
