@@ -4,10 +4,10 @@ This snippet represents approximately 1/3 of Chapter 5: Modeling a 2-body orbit 
 
 ### Introduction
 
-Python is a perfect candidate for modeling simple 2 body orbits like a satellite orbiting the Earth. We want to be able to model basic circular and elliptical orbits in two dimensions and three dimensions. We’ll take advantage of matplotlib’s `FuncAnimation()` function to animate the 2D orbit to show how the orbital velocity increases at the closest point to Earth and decreases at the farthest point from Earth. We can also use matplotlib’s 3D plotting functionality to plot circular and elliptical orbits in 3D, which will help to illustrate how the parameters that define an orbit can affect the orbit.
+Python is a perfect candidate for modeling simple 2-body orbits like a satellite orbiting the Earth. (It’s also a good candidate for complicated 3-body orbits, but we won’t get into those in this book.) We want to be able to model basic circular and elliptical orbits in two dimensions and three dimensions. We’ll take advantage of matplotlib’s `FuncAnimation()` function to animate the 2D orbit to show how the orbital velocity increases at the closest point to Earth and decreases at the farthest point from Earth. We can also use matplotlib’s 3D plotting functionality to plot circular and elliptical orbits in 3D, which will help to illustrate the effects of the different orbital parameters.
 
 
-Normally, solving the 2 body problem requires some form of ordinary differential equations to solve for time and position with respect to all three axes. These methods usually require a type of numerical method (Newton’s Method, Runge-Kutta methods, Kepler’s Method, or lots of others) to numerically solve position as a function of time. We could write these differential equation solvers ourselves, but I prefer to use existing libraries that have this functionality. We will use `PyAstronomy`’s `KeplerEllipse` class to create x, y, and z coordinates of a satellite’s position over a period of time, then we will use matplotlib to plot these points. The documentation for PyAstronomy can be found at footnote [1] at the end of this chapter.
+Solving the 2-body problem requires some form of ordinary differential equations to solve for time and position with respect to all three axes. These methods usually require a type of numerical method (Newton’s Method, Runge-Kutta methods, Kepler’s Method, or lots of others) to numerically solve position as a function of time. We could write these differential equation solvers ourselves, but I prefer to use existing libraries that have this functionality. We will use `PyAstronomy`’s `KeplerEllipse` class to create x, y, and z coordinates of a satellite’s position over a period of time, then we will use matplotlib to plot these points. The documentation for PyAstronomy can be found at footnote [1] at the end of this chapter.
 
 
 The particulars of the hows and whys of orbital mechanics are beyond the scope of this book; however, this paragraph will serve as a crash course in orbital mechanics. A satellite’s orbit around a body (we will use Earth in this chapter) can be described and calculated based on the following parameters:
@@ -24,7 +24,7 @@ The particulars of the hows and whys of orbital mechanics are beyond the scope o
 
 *	**Longitude of the Ascending Node (omega)**:  The angle between a longitudinal reference (something like the Sun) and the direction of the ascending node, the point when the “climbing” part of the orbit intersects with the extended equator. This parameter can be used to “rotate” the orbit around the Earth.
 
-With orbital mechanics out of the way, let’s get to the Python. We’ll start with displaying a 2D static plot of the orbit of a satellite around Earth, animating the 2D plot of the orbit, then finish with displaying a 3D plot of the orbit around Earth.
+Don’t worry if you don’t totally understand all of the parameters. That’s what visuals are for. With orbital mechanics out of the way, let’s get to the Python. We’ll start with displaying a 2D static plot of the orbit of a satellite around Earth, animating the 2D plot of the orbit, then finish with displaying a 3D plot of the orbit around Earth.
 
 ### Imports
 ````
