@@ -12,7 +12,7 @@ Normally, solving the 2 body problem requires some form of ordinary differential
 
 The particulars of the hows and whys of orbital mechanics are beyond the scope of this book; however, this paragraph will serve as a crash course in orbital mechanics. A satellite’s orbit around a body (we will use Earth in this chapter) can be described and calculated based on the following parameters:
 
-* **Semi-Major and Semi-Minor Axes (a)**: These are the largest and smallest radii measured from the body being orbited to the closest and farthest points in the orbit. 
+* **Semi-Major and Semi-Minor Axes (a)**: These are the largest and smallest radii measured from the body being orbited to the closest and farthest points in the orbit. Typically, only the semi-major axis is used as a parameter. For a circular orbit, the semi-major and semi-minor axes are equal, and we call it a radius. 
 
 *	**Eccentricity (e)**: This is a description of the shape of the orbit. An eccentricity of 0 means the orbit is perfectly circular; an eccentricity between 0 and 1 is an elliptical orbit. For example, an elliptical orbit with eccentricity = 0.50 means that the semi-major axis is twice as large as the semi-minor axis. An eccentricity of 1 is a parabolic orbit, which means that the satellite will slingshot around Earth once and will not return. An eccentricity greater than 1 is a hyperbolic orbit.
 
@@ -42,12 +42,12 @@ PyAstronomy is not part of the default Anaconda distribution, so you will have t
 The beauty of using a third party library (that has been properly vetted) is that the library can handle the hard work, and we only need one line to create the elliptical orbit object `KeplerEllipse`. We’ll start with a basic ellipse: semi-major axis of 1.0 units, a time period of 1.0 units, an inclination of 30 degrees, and everything else 0. We’ll also use numpy to create time intervals to be used in determining position later.
 
 ````
-orbit = pyasl.KeplerEllipse(a=1.0, per=1.0, e=0.5, Omega=0.0, i=10.0, w=0.0)
+orbit = pyasl.KeplerEllipse(a=1.0, per=1.0, e=0.5, Omega=0.0, i=30.0, w=0.0)
 
 t = np.linspace(0, 4, 200)
 ````
 
-All that is left to do is call the `xyzpos()` method, which accepts a time array argument and returns a 3 column array the same length as the input time array. It is important to note that the returned array is in the format Y coordinates, X coordinates, Z coordinates. For a 2D plot, we’ll ignore the Z coordinates, so our viewpoint is looking down at the North Pole of Earth from above Earth.
+The `linspace` function accepts a starting point, and ending point, and a number of samples that you want in between. In this case, it calculates 200 samples between 0 and 4 (inclusive). It means that we don’t have to calculate the actual step size; numpy will do that for us. All that is left to do is call the `xyzpos()` method, which accepts a time array argument and returns a 3 column array the same length as the input time array. It is important to note that the returned array is in the format Y coordinates, X coordinates, Z coordinates. For a 2D plot, we’ll ignore the Z coordinates, so our viewpoint is looking down at the North Pole of Earth from above Earth.
 
 ````
 pos = orbit.xyzPos(t)
