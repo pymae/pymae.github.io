@@ -23,9 +23,9 @@ In total, there are 10 chapters:
 3.	Graphing dynamic pressure as a function of time for a rocket launch with **matplotlib** 
 4.	Getting and plotting airfoil coordinates with **requests** and **matplotlib**
 5.	Modeling a satellite’s orbit around Earth with **PyAstronomy** and **matplotlib**
+8.	Creating a GUI to convert units with **tkinter** and **pint**
 6.	Introduction to web scraping (**requests** and **beautifulsoup4**) and exporting data to Excel (**openpyxl**)
 7.	Modeling camera shutter effect on an aircraft’s propeller with **tkinter** and **numpy**
-8.	Creating a GUI to convert units with **tkinter** and **pint**
 9.	Making pdf reports of Python code with **Pweave**
 
 You can find the completed programs and a very helpful 595 page NSA Python tutorial [at the book's GitHub page here](https://github.com/alexkenan/pymae).
