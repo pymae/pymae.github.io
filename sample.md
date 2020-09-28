@@ -12,7 +12,7 @@ Solving the 2-body problem requires some form of ordinary differential equations
 
 The particulars of the hows and whys of orbital mechanics are beyond the scope of this book; however, this paragraph will serve as a crash course in orbital mechanics. A satellite’s orbit around a body (we will use Earth in this chapter) can be described and calculated based on the following parameters:
 
-* **Semi-Major and Semi-Minor Axes (a)**: These are the largest and smallest radii measured from the body being orbited to the closest and farthest points in the orbit. Typically, only the semi-major axis is used as a parameter. For a circular orbit, the semi-major and semi-minor axes are equal, and we call it a radius. 
+* **Semi-Major and Semi-Minor Axes (a)**: These are the largest and smallest radii measured from the body being orbited to the farthest and closest points in the orbit, respectively. Typically, only the semi-major axis is used as a parameter. For a circular orbit, the semi-major and semi-minor axes are equal, and we call it the radius. 
 
 *	**Eccentricity (e)**: This is a description of the shape of the orbit. An eccentricity of 0 means the orbit is perfectly circular; an eccentricity between 0 and 1 is an elliptical orbit. For example, an elliptical orbit with eccentricity = 0.50 means that the semi-major axis is twice as large as the semi-minor axis. An eccentricity of 1 is a parabolic orbit, which means that the satellite will slingshot around Earth once and will not return. An eccentricity greater than 1 is a hyperbolic orbit.
 
