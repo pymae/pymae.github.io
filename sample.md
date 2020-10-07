@@ -72,10 +72,12 @@ plt.show()
 
 **To read the rest of the book, see purchasing options [here](https://pymae.github.io/buy.html).**
 
-You'll learn how to make the following two visualizations:
+You'll learn how to make the following three visualizations:
 
-<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/space.gif" alt="animated space gif">
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/space.gif" alt="animated 2D space gif">
 
-<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/3d_space.png" alt="3D space plot" width="564px" height="495px">
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/3d_space.png" alt="3D static space plot" width="564px" height="495px">
+
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/3d_animated.gif" alt="animated 3D space gif" width="640px" height="480px">
 
 <b>See purchasing options </b><a href="https://pymae.github.io/buy.html">here</a>.
