@@ -24,7 +24,7 @@ The particulars of the hows and whys of orbital mechanics are beyond the scope o
 
 *	**Longitude of the Ascending Node (omega)**:  The angle between a longitudinal reference (something like the Sun) and the direction of the ascending node, the point when the “climbing” part of the orbit intersects with the extended equator. This parameter can be used to “rotate” the orbit around the Earth.
 
-Don’t worry if you don’t totally understand all of the parameters. That’s what visuals are for. With orbital mechanics out of the way, let’s get to the Python. We’ll start with displaying a 2D static plot of the orbit of a satellite around Earth, animating the 2D plot of the orbit, then finish with displaying a 3D plot of the orbit around Earth.
+Don’t worry if you don’t totally understand all of the parameters. That’s what visuals are for. With orbital mechanics out of the way, let’s get to Python. We’ll start with displaying a 2D static plot of the orbit of a satellite around Earth, animating the 2D plot of the orbit, then finish with displaying a 3D plot of the orbit around Earth.
 
 ### Imports
 ````
