@@ -19,13 +19,13 @@ In total, there are 10 chapters:
 
 1.	Intro chapter on how to download Python via Anaconda distribution and getting started with Python syntax
 1.  A very small problem and solution to demonstrate a basic Python program
-2.	Graphing thrust required and thrust available for an Airbus A321 at three different altitudes with **matplotlib**
-3.	Graphing dynamic pressure as a function of time for a rocket launch with **matplotlib** 
-4.	Getting and plotting airfoil coordinates with **requests** and **matplotlib**
-5.	Modeling a satellite’s orbit around Earth with **PyAstronomy** and **matplotlib**
-8.	Creating a GUI to convert units with **tkinter** and **pint**
-6.	Introduction to web scraping (**requests** and **beautifulsoup4**) and exporting data to Excel (**openpyxl**)
-7.	Modeling camera shutter effect on an aircraft’s propeller with **tkinter** and **numpy**
+2.	Graphing thrust required and thrust available for an Airbus A321 at three different altitudes with **Matplotlib**
+3.	Graphing dynamic pressure as a function of time for a rocket launch with **Matplotlib** 
+4.	Getting and plotting airfoil coordinates with **Requests** and **Matplotlib**
+5.	Modeling a satellite’s orbit around Earth with **PyAstronomy** and **Matplotlib**
+8.	Creating a GUI to convert units with **Tkinter** and **Pint**
+6.	Introduction to web scraping (**Requests** and **BeautifulSoup4**) and exporting data to Excel (**Openpyxl**)
+7.	Modeling camera shutter effect on an aircraft’s propeller with **Tkinter** and **Numpy**
 9.	Making pdf reports of Python code with **Pweave**
 
 You can find the completed programs and a very helpful 595 page NSA Python tutorial [at the book's GitHub page here](https://github.com/alexkenan/pymae).
