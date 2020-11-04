@@ -1,20 +1,18 @@
 ## Purchasing options
 
 This book is available on 
-* [Amazon Kindle][AmazonK] or [Amazon softcover][AmazonS]
+* [Amazon Kindle][AmazonK] or Amazon softcover (Coming soon!)
 * [Apple Books][Apple Books]
 * [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble softcover][Barnes and Noble softcover]
-* [Kobo][Kobo]
 * [Google Play][Google Play]
 * [Leanpub][leanpub]
 
 
 
-[AmazonK]:    https://www.amazon.com
+[AmazonK]:    https://www.amazon.com/dp/B08MQY1DJC
 [AmazonS]:   https://www.amazon.com
 [Apple Books]:     https://www.apple.com
 [Barnes and Noble ebook]: https://www.barnesnnoble.com
 [Barnes and Noble softcover]: https://www.barnesnnoble.com
-[Kobo]: https://www.kobo.com
 [Google Play]: https://www.google.com
 [Leanpub]: https://leanpub.com/pymae
