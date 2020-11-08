@@ -9,7 +9,7 @@ This book is available on
 
 
 
-[AmazonK]:    https://www.amazon.com/dp/B08MQY1DJC
+[AmazonK]:    https://smile.amazon.com/dp/B08MQY1DJC
 [AmazonS]:   https://www.amazon.com
 [Apple Books]:     https://www.apple.com
 [Barnes and Noble ebook]: https://www.barnesnnoble.com
