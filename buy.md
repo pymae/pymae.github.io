@@ -3,7 +3,7 @@
 This book is available on 
 * [Amazon Kindle][AmazonK] or Amazon paperback (Coming soon!)
 * [Apple Books][Apple Books]
-* [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble paperback][Barnes and Noble softcover]
+* [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble paperback][Barnes and Noble paperback]
 * [Google Play][Google Play]
 * [Leanpub][leanpub]
 
