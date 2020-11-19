@@ -6,6 +6,8 @@ This book is available on
 * [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble paperback][Barnes and Noble paperback]
 * [Google Play][Google Play]
 * [Leanpub][leanpub]
+* [Kobo][Kobo]
+* [Angus & Robertson][Angus]
 
 
 
@@ -16,3 +18,5 @@ This book is available on
 [Barnes and Noble paperback]: https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=9781736060629
 [Google Play]: https://www.google.com
 [Leanpub]: https://leanpub.com/pymae
+[Kobo]: https://www.kobo.com/us/en/ebook/python-for-mechanical-and-aerospace-engineering
+[Angus]: https://www.angusrobertson.com.au/books/x/p/9781736060605
