@@ -7,7 +7,7 @@ This book is available on
 * [Google Play][Google Play]
 * [Leanpub][leanpub]
 * [Kobo][Kobo]
-* [Angus & Robertson][Angus]
+* [Other online bookstores](Other sites)
 
 
 
@@ -19,4 +19,4 @@ This book is available on
 [Google Play]: https://www.google.com
 [Leanpub]: https://leanpub.com/pymae
 [Kobo]: https://www.kobo.com/us/en/ebook/python-for-mechanical-and-aerospace-engineering
-[Angus]: https://www.angusrobertson.com.au/books/x/p/9781736060605
+[Other sites]: https://books2read.com/u/4jLLov
