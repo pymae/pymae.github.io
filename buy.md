@@ -7,7 +7,7 @@ This book is available on
 * [Google Play][Google Play]
 * [Leanpub][leanpub]
 * [Kobo][Kobo]
-* [Other online bookstores](Other sites)
+* [Other online bookstores][Other sites]
 
 
 
