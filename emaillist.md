@@ -1,6 +1,6 @@
-<h2>Email List</h2>
+## Email List
 
-<p>If you want to be notified of any new books or new editions, sign up to this email list below. This list will only be used to notify you if I write more books or create new editions.</p>
+If you want to be notified of any new books or new editions, sign up to this email list below. This list will only be used to notify you if I write more books or create new editions.
 <br>
 <br>
 <!-- Begin Mailchimp Signup Form -->
@@ -15,15 +15,18 @@
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to receive information about new books</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<br>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
+<br>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
+<br>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
