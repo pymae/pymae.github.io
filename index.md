@@ -38,5 +38,8 @@ Click [here](https://pymae.github.io/buy.html) for purchasing information.
 ## Sample Chapter
 Take a test drive of this book by previewing some of Chapter 5: Modeling a 2-body orbit in two and three dimensions [here](https://pymae.github.io/sample.html).
 
+## Mailing List
+
+Get on the mailing list to be the first to know if I publish more books or a second edition! Click [here](https://pymae.github.io/emaillist.html) to learn more.
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></center><p>Python for Mechanical and Aerospace Engineering and its associated materials are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
