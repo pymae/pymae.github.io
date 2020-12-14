@@ -1,3 +1,9 @@
+<a href="https://pymae.github.io">Home</a> | 
+<a href="https://pymae.github.io/buy.html">Purchasing</a> | 
+<a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
+<a href="https://pymae.github.io/about.html">About</a> | 
+<a href="https://pymae.github.io/emaillist.html">Mailing List</a>
+
 # Python for Mechanical and Aerospace Engineering
 by [Alex Kenan](https://pymae.github.io/about.html)
 
