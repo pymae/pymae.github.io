@@ -4,7 +4,7 @@ This book is available on
 * [Amazon Kindle][AmazonK] or [Amazon paperback][AmazonS]
 * [Apple Books][Apple Books]
 * [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble paperback][Barnes and Noble paperback]
-* ~~Google Play~~ Coming soon!
+* [Google Play Store][GooglePlay] or [Google Books][GoogleBooks]
 * [Leanpub][leanpub]
 * [Kobo][Kobo]
 * [Other online bookstores][Other sites]
@@ -20,3 +20,5 @@ This book is available on
 [Leanpub]: https://leanpub.com/pymae
 [Kobo]: https://www.kobo.com/us/en/ebook/python-for-mechanical-and-aerospace-engineering
 [Other sites]: https://books2read.com/u/4jLLov
+[GooglePlay]: https://play.google.com/store/books/details?id=SkgFEAAAQBAJ
+[GoogleBooks]: http://books.google.com/books/about?id=SkgFEAAAQBAJ
