@@ -59,6 +59,8 @@ Congratulations, that’s all of the orbital mechanics that is required! The res
 plt.plot(0, 0, 'bo', markersize=9, label="Earth")
 
 plt.plot(pos[::, 1], pos[::, 0], 'k-', label="Satellite Trajectory")
+
+plt.plot(pos[0, 1], pos[0, 0], 'r*', label="Periapsis")
 ````
 Since `pos`'s array coordinates are in the system (Y, X, Z), to get the X coordinates, we need to call the “first” (in reality, the second) element in the array. Add a legend and a title, and let’s show the plot:
 ````
