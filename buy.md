@@ -12,7 +12,7 @@ This book is available on
 
 
 [AmazonK]:    https://smile.amazon.com/dp/B08MQY1DJC
-[AmazonS]:   https://www.amazon.com/dp/1736060619
+[AmazonS]:   https://smile.amazon.com/dp/1736060619
 [Apple Books]:     https://books.apple.com/us/book/python-for-mechanical-and-aerospace-engineering/id1538845575?ls=1
 [Barnes and Noble ebook]: https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=2940162705659
 [Barnes and Noble paperback]: https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=9781736060629
