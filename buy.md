@@ -1,22 +1,38 @@
 ## Purchasing options
 
-This book is available on 
-* [Amazon Kindle][AmazonK] or [Amazon paperback][AmazonS]
-* [Apple Books][Apple Books]
-* [Barnes and Noble ebook][Barnes and Noble ebook] or [Barnes and Noble paperback][Barnes and Noble paperback]
-* [Google Play Store][GooglePlay] or [Google Books][GoogleBooks]
-* [Leanpub][leanpub]
-* [Kobo][Kobo]
-* [Other online bookstores][Other sites]
+<i>Python for Mechanical and Aerospace Engineering</i> is available in paperback and ebook versions.
 
-
+<table>
+  <tr>
+    <th>Paperback - $29.99</th>
+    <th>Ebook - $9.99</th>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://smile.amazon.com/dp/1736060619">Amazon</a></li>
+        <li><a href="https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=9781736060629">Barnes and Noble</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://smile.amazon.com/dp/B08MQY1DJC">Amazon Kindle</a></li>
+        <li><a href="https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=2940162705659">Barnes and Noble Nook</a></li>
+        <li><a href="https://books.apple.com/us/book/python-for-mechanical-and-aerospace-engineering/id1538845575?ls=1">Apple Books</a></li>
+        <li><a href="https://play.google.com/store/books/details?id=SkgFEAAAQBAJ">Google Play Store</a></li>
+        <li><a href="http://books.google.com/books/about?id=SkgFEAAAQBAJ">Google Books</a></li>
+        <li><a href="https://leanpub.com/pymae">Leanpub</a> (select your price, minimum of $4.99)</li>
+        <li><a href="https://www.kobo.com/us/en/ebook/python-for-mechanical-and-aerospace-engineering">Kobo</a></li>
+        <li><a href="https://books2read.com/u/4jLLov">Other online bookstores</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 [AmazonK]:    https://smile.amazon.com/dp/B08MQY1DJC
 [AmazonS]:   https://smile.amazon.com/dp/1736060619
 [Apple Books]:     https://books.apple.com/us/book/python-for-mechanical-and-aerospace-engineering/id1538845575?ls=1
 [Barnes and Noble ebook]: https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=2940162705659
 [Barnes and Noble paperback]: https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=9781736060629
-[Google Play]: https://www.google.com
 [Leanpub]: https://leanpub.com/pymae
 [Kobo]: https://www.kobo.com/us/en/ebook/python-for-mechanical-and-aerospace-engineering
 [Other sites]: https://books2read.com/u/4jLLov
