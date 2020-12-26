@@ -6,6 +6,7 @@
   <tr>
     <th>Paperback - $29.99</th>
     <th>Ebook - $9.99</th>
+  </tr>
   <tr>
     <td>
       <ul>
