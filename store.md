@@ -31,7 +31,7 @@
         <div id="error-message"></div>
       </div>
     </div>
-<!--<div class="banner">
+<div class="banner">
       <span>
         This is a
         <a href="https://github.com/stripe-samples"> Stripe Sample </a> on how
@@ -42,7 +42,7 @@
           View code on GitHub.
         </a>
       </span>
-    </div>-->
+    </div>
 
     <script>
       // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
