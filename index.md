@@ -10,7 +10,7 @@ by [Alex Kenan](https://pymae.github.io/about.html)
 <center>
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/cover_page_low.jpeg" alt="Python for Mechanical and Aerospace Engineering cover page" 
      width="170px" height="220px">
-</center>
+</center><br><br>
 
 
 ## What is this book about?
