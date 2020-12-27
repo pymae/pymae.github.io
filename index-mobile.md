@@ -1,27 +1,14 @@
-<script>
-window.mobilecheck = function() {
-var check = false;
-if(window.innerWidth<768){
- check=true;
-}
-return check;
-}
-if(window.mobilecheck()){
-window.location.href="index-mobile.html";
-}
-
-</script>
-
-
-# Python for Mechanical and Aerospace Engineering
-by [Alex Kenan](https://pymae.github.io/about.html)
- 
 <center><a href="https://pymae.github.io">Home</a> | 
 <a href="https://pymae.github.io/buy.html">Purchasing</a> | 
 <a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
 <a href="https://pymae.github.io/about.html">About</a> | 
 <a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>
 <br>
+
+# Python for Mechanical and Aerospace Engineering
+by [Alex Kenan](https://pymae.github.io/about.html)
+ 
+
 <center>
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/cover_page_low.jpeg" alt="Python for Mechanical and Aerospace Engineering cover page" 
      width="170px" height="220px">
