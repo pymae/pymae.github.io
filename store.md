@@ -9,7 +9,7 @@ Purchasing *Python for Mechanical and Aerospace Engineering* through this websit
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3/"></script>
 
-<button data-checkout-mode="payment" data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5">Purchase</button>
+<button data-checkout-mode="payment" data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5" class="button">Purchase</button>
 <p>(redirects to Stripe)</p>
 <div id="error-message"></div>
 <script>
