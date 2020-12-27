@@ -46,7 +46,7 @@ stripe
               successUrl:
                 DOMAIN + 'store_success.html?session_id={CHECKOUT_SESSION_ID}',
               cancelUrl:
-                DOMAIN + 'store_cancelled.html?session_id={CHECKOUT_SESSION_ID}',
+                DOMAIN + 'store_canceled.html?session_id={CHECKOUT_SESSION_ID}',
             })
             .then(handleResult);
         });
