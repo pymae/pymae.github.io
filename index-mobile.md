@@ -1,14 +1,14 @@
 <script>
-  window.mobilecheck = function() {
-   var check = false;
-   if(window.innerWidth<768){
-       check=true;
-   }
-   return check;
-  }
-  if(window.mobilecheck()){
-     window.location.href="index-mobile.html";
-  }
+window.mobilecheck = function() {
+var check = false;
+if(window.innerWidth<768){
+ check=true;
+}
+return check;
+}
+if(window.mobilecheck()){
+window.location.href="index-mobile.html";
+}
 
 </script>
 
