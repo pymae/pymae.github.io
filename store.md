@@ -9,7 +9,7 @@ Purchasing *Python for Mechanical and Aerospace Engineering* through this websit
 <link rel="stylesheet" href="css/normalize.css" />
 <link rel="stylesheet" href="css/global.css" />
 <section class="container">
-<button data-checkout-mode="payment" data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5" class="button">Purchase for $9.99</button>
+<button data-checkout-mode="payment" data-price-id="price_1I2pJkAzc86QT0MIqz9r3paF" class="button">Purchase for $9.99</button>
 <p>(redirects to Stripe)</p>
 </section>
 <div id="error-message"></div>
