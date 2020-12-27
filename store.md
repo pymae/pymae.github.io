@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Ebook Purchase</title>
-    <meta name="description" content="Purchase the book version of Python for Mechanical and Aerospace Engineering" />
-
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="css/global.css" />
-    <!-- Load Stripe.js on your website. -->
-    <script src="https://js.stripe.com/v3/"></script>
-  </head>
-
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="css/normalize.css" />
+<link rel="stylesheet" href="css/global.css" />
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3/"></script>
   <body>
     <div class="sr-root">
       <div class="sr-main" style="display: flex;">
@@ -21,10 +12,7 @@
         <div class="sr-container">
           <section class="container">
             <h1>Python for Mechanical and Aerospace Engineering ebook</h1>
-            <button
-              data-checkout-mode="payment"
-              data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5"
-            >
+            <button data-checkout-mode="payment" data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5">
               Purchase
             </button>
         </div>
