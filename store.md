@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="css/global.css" />
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3/"></script>
-  <body>
     <div class="sr-root">
       <div class="sr-main" style="display: flex;">
         <header class="sr-header">
@@ -75,5 +74,3 @@
         });
       });
     </script>
-  </body>
-</html>
