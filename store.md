@@ -12,10 +12,7 @@ Purchasing *Python for Mechanical and Aerospace Engineering* through this websit
 <script src="https://js.stripe.com/v3/"></script>
 <link rel="stylesheet" href="css/normalize.css" />
 <link rel="stylesheet" href="css/global.css" />
-<section class="container">
-<button data-checkout-mode="payment" data-price-id="price_1I2pJkAzc86QT0MIqz9r3paF" class="button">Purchase for $9.99</button>
-<p>(redirects to Stripe)</p>
-</section>
+<button data-checkout-mode="payment" data-price-id="price_1I2pJkAzc86QT0MIqz9r3paF" class="button">Purchase for $9.99</button> (redirects to Stripe)
 <div id="error-message"></div>
 <script>
 // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
