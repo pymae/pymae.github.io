@@ -10,7 +10,7 @@ window.mobilecheck = function() {
            return check;
          }
                             
-if(window.mobilecheck() == true){
+if(window.mobilecheck(){
   document.write("<center><a href="https://pymae.github.io">Home</a> | 
 <a href="https://pymae.github.io/buy.html">Purchasing</a> | 
 <a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
