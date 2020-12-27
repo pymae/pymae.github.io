@@ -44,9 +44,9 @@ stripe
               mode: mode,
               lineItems: items,
               successUrl:
-                DOMAIN + 'success.html?session_id={CHECKOUT_SESSION_ID}',
+                DOMAIN + 'store_success.html?session_id={CHECKOUT_SESSION_ID}',
               cancelUrl:
-                DOMAIN + 'canceled.html?session_id={CHECKOUT_SESSION_ID}',
+                DOMAIN + 'store_cancelled.html?session_id={CHECKOUT_SESSION_ID}',
             })
             .then(handleResult);
         });
