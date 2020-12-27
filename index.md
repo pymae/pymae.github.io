@@ -7,6 +7,11 @@
 # Python for Mechanical and Aerospace Engineering
 by [Alex Kenan](https://pymae.github.io/about.html)
 
+<center>
+<img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/cover_page_low.jpeg" alt="Python for Mechanical and Aerospace Engineering cover page" 
+     width="170px" height="220px">
+</center>
+
 
 ## What is this book about?
 The traditional computer science courses for engineering focus on the fundamentals of programming without demonstrating the wide array of practical applications for fields outside of computer science. As a result, engineers know (or, at least, learned) the principles of inheritance and object-oriented programming, but the courses fail to link these concepts to actual engineering applications. Thus, the mindset of “Java/Python is for computer science people or programmers, and MATLAB is for engineering” develops. MATLAB tends to dominate the engineering space because it is viewed as a batteries-included software kit that is focused on functional programming. Everything in MATLAB is some sort of array, and it lends itself to engineering integration with its toolkits like Simulink and other add-ins. The downside of MATLAB is that it is proprietary software, the license is expensive to purchase, and it is more limited than Python for doing tasks besides calculating or data capturing. 
