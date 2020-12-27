@@ -8,29 +8,16 @@ Purchasing *Python for Mechanical and Aerospace Engineering* through this websit
 <link rel="stylesheet" href="css/global.css" />
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3/"></script>
-<div class="sr-root">
-<div class="sr-main" style="display: flex;">
-<header class="sr-header">
-<div class="sr-header__logo"></div>
-</header>
-<div class="sr-container">
-<section class="container">
+
 <button data-checkout-mode="payment" data-price-id="price_1I2oiAAzc86QT0MIyKA6vxl5">Purchase</button>
-</div>
+<p>(redirects to Stripe)</p>
 <div id="error-message"></div>
-</div>
-</div>
 <script>
 // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
 var PUBLISHABLE_KEY = 'pk_live_51I2oSGAzc86QT0MI3vQRJs3cJGOaACRybp5nAQrVqXPoJp9r5SF3NJiR12pzTTy7AH8MpFusKMBKP6Zg6XjpvTEw00DTFyVjUX';
 // Replace with the domain you want your users to be redirected back to after payment
 var DOMAIN = location.href.replace(/[^/]*$/, '');
 
-if (PUBLISHABLE_KEY === 'pk_test_Tr8olTkdFnnJVywwhNPHwnHK00HkHV4tnP') {
-    console.log(
-     'Replace the hardcoded publishable key with your own publishable key: https://dashboard.stripe.com/test/apikeys'
-        );
-}
 
 var stripe = Stripe(PUBLISHABLE_KEY);
 
