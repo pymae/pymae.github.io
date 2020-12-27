@@ -1,8 +1,13 @@
-<center><a href="https://pymae.github.io">Home</a> | 
+<script>
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+  // true for mobile device
+  document.write("<center><a href="https://pymae.github.io">Home</a> | 
 <a href="https://pymae.github.io/buy.html">Purchasing</a> | 
 <a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
 <a href="https://pymae.github.io/about.html">About</a> | 
-<a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>
+<a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>");
+}
+</script>     
 
 # Python for Mechanical and Aerospace Engineering
 by [Alex Kenan](https://pymae.github.io/about.html)
