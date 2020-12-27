@@ -2,6 +2,10 @@
 
 Purchasing *Python for Mechanical and Aerospace Engineering* through this website (powered by Stripe) provides the author with the greatest royalty for the same e-book price across all digital channels. If you run into any issues, email pythonforengineering (at) gmail.com!
 
+
+**WARNING!! This page is under development. If you try to buy the ebook right now, you will probably just give me money and not get an ebook. Please use other vendors.**
+
+
 <!-- Begin Stripe Checkout Form -->
 
 <!-- Load Stripe.js on your website. -->
