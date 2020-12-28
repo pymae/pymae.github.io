@@ -20,7 +20,7 @@ The particulars of the hows and whys of orbital mechanics are beyond the scope o
 
 *	**Periapsis and Apoapsis**: Periapsis is the closest point in the satellite’s orbit to the body being orbited, and apoapsis is the farthest point in the satellite’s orbit to the body being orbited. -apsis is the suffix for a general body, so every orbit has a periapsis. -gee is the suffix for Earth, so all satellites orbiting the Earth have a perigee. -helion is the suffix for the Sun, so all satellites orbiting the Sun have a perihelion.
 
-*	**Argument of Periapsis (also called Argument of Perihelion) (w)**: The angle between the point on the orbit that intersects the extended equator line and the closest point in the orbit to Earth (periapsis). A circular orbit with 0 inclination will have an argument of perigee of 0 degrees. This parameter essentially moves the closest point in the orbit to Earth to a different point along the orbit. 
+*	**Argument of Periapsis (w)**: The angle between the point on the orbit that intersects the extended equator line and the closest point in the orbit to Earth (periapsis). A circular orbit with 0 inclination will have an argument of perigee of 0 degrees. This parameter essentially moves the closest point in the orbit to Earth to a different point along the orbit. 
 
 *	**Longitude of the Ascending Node (omega)**:  The angle between a longitudinal reference (something like the Sun) and the direction of the ascending node, the point when the “climbing” part of the orbit intersects with the extended equator. This parameter can be used to “rotate” the orbit around the Earth.
 
