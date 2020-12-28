@@ -15,7 +15,6 @@ window.location.href="index-mobile.html";
 # Python for Mechanical and Aerospace Engineering
 by [Alex Kenan](https://pymae.github.io/about.html)
 
-<br>
 <center>
 <img src="https://raw.githubusercontent.com/pymae/pymae.github.io/master/files/cover_page_low.jpeg" alt="Python for Mechanical and Aerospace Engineering cover page" 
      width="170px" height="220px">
