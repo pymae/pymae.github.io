@@ -5,7 +5,7 @@
 <a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>
 <br>
 
-# Python for Mechanical and Aerospace Engineering
+<h1>Python for Mechanical and<br>Aerospace Engineering</h1>
 by [Alex Kenan](https://pymae.github.io/about.html)
  
 
