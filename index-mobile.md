@@ -1,29 +1,8 @@
-<span id="yesno"></span>
-
-<script>
-window.mobilecheck = function() {
-      var check = false;
-      if(window.innerWidth<768){
-          check=true;
-      }
-      return check;
-    }
-
-if(window.mobilecheck()){
-      document.getElementById("yesno").innerHTML = <center><a href="https://pymae.github.io">Home</a> | 
-      <a href="https://pymae.github.io/buy.html">Purchasing</a> | 
-      <a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
-      <a href="https://pymae.github.io/about.html">About</a> | 
-      <a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>;
-}
-
-</script> 
-
-<!--<center><a href="https://pymae.github.io">Home</a> | 
+<center><a href="https://pymae.github.io">Home</a> | 
 <a href="https://pymae.github.io/buy.html">Purchasing</a> | 
 <a href="https://pymae.github.io/sample.html">Chapter 5 Sample</a> |
 <a href="https://pymae.github.io/about.html">About</a> | 
-<a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>-->
+<a href="https://pymae.github.io/emaillist.html">Mailing List</a></center>
 <br>
 
 # Python for Mechanical and Aerospace Engineering
