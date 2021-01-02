@@ -16,7 +16,7 @@
     </td>
     <td>
       <ul>
-        <li><a href="https://pymae.pythonanywhere.com/store.html">Direct Download</a> (preferred)</li>
+        <!--<li><a href="https://pymae.pythonanywhere.com/store.html">Direct Download</a> (preferred)</li>-->
         <li><a href="https://leanpub.com/pymae">Leanpub</a> (preferred)</li>
         <li><a href="https://smile.amazon.com/dp/B08MQY1DJC">Amazon Kindle</a></li>
         <li><a href="https://www.barnesandnoble.com/w/python-for-mechanical-and-aerospace-engineering-alex-kenan/1138022875?ean=2940162705659">Barnes and Noble Nook</a></li>
